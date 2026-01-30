@@ -1,15 +1,13 @@
 fastapi
 uvicorn
+streamlit==1.25.0
+altair==4.2.2
 
 torch
 transformers
-
 scikit-learn
 xgboost
 joblib
-
 numpy
 pandas
 scipy
-
-streamlit
