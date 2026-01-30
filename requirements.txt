@@ -1,13 +1,18 @@
+# Core
 fastapi
 uvicorn
+
+# UI
 streamlit==1.25.0
 altair==4.2.2
+pillow==9.5.0
 
-torch
-transformers
-scikit-learn
-xgboost
+# ML
+torch==2.1.2
+transformers==4.37.2
+scikit-learn==1.3.2
+xgboost==1.7.6
 joblib
-numpy
-pandas
-scipy
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
